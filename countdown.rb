@@ -1,4 +1,5 @@
+require pry
 #write your code here
 
-def countdown
-  countdown = 10
+def countdown(num)
+end
