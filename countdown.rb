@@ -2,4 +2,3 @@
 
 def countdown
   countdown = 10
-end
